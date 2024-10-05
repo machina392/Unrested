@@ -1,6 +1,6 @@
 ## Interface: 11504
 ## Title: Unrested
-## Version: 0.0.1
+## Version: 1.0.0
 ## Author: Machina
 ## Notes: Lightweight addon that filters Rested emote spam from chat
 
